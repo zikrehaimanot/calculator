@@ -7,9 +7,9 @@ https://zikrecalculator.netlify.com
 
 ![calculator](calculator.png)
 
-##How It's Made:
+##  How It's Made:
 
-##Tech used: HTML, CSS & JavaScript
+## Tech used: HTML, CSS & JavaScript
 
 Simple & efficient JavaScript functions that compliment a simple design to create an online calculator.
 
